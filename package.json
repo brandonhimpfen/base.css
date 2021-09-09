@@ -1,0 +1,16 @@
+{
+  "name": "bh-basecss",
+  "version": "1.0.1",
+  "description": "A modern, HTML5 ready CSS base, foundation",
+  "main": "base.css",
+  "style": "base.css",
+  "files": [
+    "LICENSE.md",
+    "base.css",
+    "base.min.css"
+  ],
+  "repository": "brandonhimpfen/base.css",
+  "license": "MIT",
+  "bugs": "https://github.com/brandonhimpfen/base.css/issues",
+  "homepage": "https://www.himpfen.com/base-css/"
+}
